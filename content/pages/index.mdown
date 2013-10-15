@@ -7,22 +7,20 @@ Random Hacks of Kindness Melbourne (RHoK) is a not for profit local group that i
 
 # What is RHoK?
 
-RHoK is a global hackathon that takes part twice a year.  It was started in 2009 by Google, NASA, Yahoo!, Microsoft and the World Bank, and since then RHoK has been bringing together thousands of people around the world to create open source solutions that can save lives and alleviate suffering. 
+RHoK is a global hackathon that takes place twice a year.  It was started in 2009 by Google, NASA, Yahoo!, Microsoft and the World Bank, and since then RHoK has been bringing together thousands of people around the world to create open source solutions that can save lives and alleviate suffering. 
 RHoK Melbourne events encourage participants to develop solutions that can be used, in particular, to help people prepare for and respond to natural disasters.
-Melbourne is again taking part in the next global RHoK event in June this year.   
+Melbourne is again taking part in the next global RHoK event in December this year.   
 
-# RHoK Global Hackathon - 1st & 2nd of June
-The next RHoK is approaching fast. You can [sign up to the event via Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
+# RHoK Global Hackathons
 
-See our Press Release <a href="/attachments/press-release-june-2013.pdf">here</a>.
-Our post-event Press Release is <a href="/attachments/post-event-press-release-6-june-2013.pdf">here</a>.
+The next global hack weekend will be on December 7-8, 2013. We are currently recruiting new problem owners and hackers, and will have an information session on 12 November. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
 
-RHoK Melbourne will be located at Swinburne University Hawthorn, in the TD building.  
+RHoK Melbourne December 2013 will again be held at Swinburne University Hawthorn, in the TD building.  
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">TD Building, Swinburne University</a> in a larger map</small> 
 
-Here's an outline of how the RHOK Melbourne hackathon will run in June. We'll clear as much time for actual development, and keep the speechifying and admin to a bare minimum.  You can have a look at some of the problems we'll be working on in advance - just go to our "Problems" page.
+Here's an outline of how the RHOK Melbourne hackathon will run. We keep most of the time for actual development, and the speechifying and admin to a bare minimum.  The problems that will be pitched for teams to work on will be added to the "Problems" page as they are ready.
 
-## Saturday June 1st
+## Saturday December 7
 
 * 9.00 – 9.30 Get set up, and ready for 2 great days
 * 9.30 – 9.45 Welcome and administrivia
@@ -35,7 +33,7 @@ We'll have light snacks, fruit, drinks and the like on hand to keep your blood s
 
 You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
 
-## Sunday June 2nd
+## Sunday December 8
 
 * 8.00 – 13.00 Coding continues
 * 14.00 Time to down tools
@@ -43,3 +41,11 @@ You can work as late as 2.00am, or head home a little earlier to catch up on som
 * 15.30 – 16.00 Judges deliberate
 * 16.00 – 16.30 Awards and prizes
 * 16.30 onwards - come share a drink nearby at the Hotel Hotham to unwind
+
+
+# June 2013 Hackathon
+
+Here is some information from our last hackathon:
+
+See our pre-event Press Release <a href="/attachments/press-release-june-2013.pdf">here</a>.
+Our post-event Press Release is <a href="/attachments/post-event-press-release-6-june-2013.pdf">here</a>.
