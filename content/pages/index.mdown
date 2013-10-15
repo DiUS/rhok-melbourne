@@ -3,7 +3,7 @@ Link text: Home
 
 # Welcome to RHoK Melbourne
 
-Random Hacks of Kindness Melbourne (RHoK) is a not for profit local group that is part of a global movement of hackers who are hacking for good around the world.  We invite participants to work together to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
+Random Hacks of Kindness (RHoK) Melbourne is a not-for-profit local group that is part of a global movement of hackers who are hacking for good around the world.  We invite participants to work together to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
 
 # What is RHoK?
 
