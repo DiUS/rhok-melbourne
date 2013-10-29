@@ -57,10 +57,8 @@ Smart Giving is a platform where individuals, charities and businesses will  int
 
 The Open Food Web Foundation has been working on a general sollution of "making it easy to buys and sell local food."  The have a few things to add, and that's where RHoK comes in.
 
-[Find out more](http://www.rhok.org/node/106805) 
-
 1) Bulk Food Ordering: For many people, organic and sustainably produced food perceived as (or is) too expensive. Bulk buying can enable dispersed groups of people to access wholesale prices, making good food more affordable. However, there are currently significant transaction and administration costs for people and coops who are working together to bulk buy.
 
 2) Sharing Transport: The problem of moving food around at minimum cost / greenhouse emissions, requires users to be able to work together to plan shared trips e.g. one farmer bringing produce from multiple farmers into the city.
 
-[Find out more](http://www.rhok.org/problems/open-food-network-making-it-easy-buy-and-sell-local-food)
+[Find out more](http://www.rhok.org/node/106805)
