@@ -13,7 +13,12 @@ Melbourne is again taking part in the next global RHoK event in December this ye
 
 # RHoK Global Hackathons
 
-The next global hack weekend will be on December 7-8, 2013. We are currently recruiting new problem owners and hackers, and will have an information session on 12 November. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
+The next global hack weekend will be on December 7-8, 2013. We are currently recruiting new problem owners and hackers, and will had an information session on 12 November. You can view the video recording of the session <a href="http://youtu.be/nIQ2FDnrZgM">here</a>  
+Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
+
+# December 2013 Hackathon
+
+If you are ready to signup for the hackathon, please register using this <a href="https://www.eventbrite.com.au/event/9220654225">Eventbrite page</a>
 
 RHoK Melbourne December 2013 will again be held at Swinburne University Hawthorn, in the TD building.  
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">TD Building, Swinburne University</a> in a larger map</small> 
