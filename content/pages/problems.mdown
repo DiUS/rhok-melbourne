@@ -23,36 +23,6 @@ In any emergency response, such as firefighting, there is a need to manage resou
 
 [Find out more](http://www.rhok.org/node/95421)  
 
-### Resilience
-
-After a bush fire, flood, or cyclone, emergency response management personnel need to know what issues need to be resolved, get accurate and timely descriptions of their severity and location, to be able to prioritise them, to determine which types of resources are needed for their resolution, and to track their resolution. Currently, issues are handled by verbal description, relayed in the first instance over the phone from a member of the public, to a centralised response call centre, and then to the local emergency response crews. At each step, and with each relay of information, the precise location and an accurate description may be diluted or lost. Indeed, an accurate location and description may not have been captured in the first place. For example, a tree is across the road, a road section is washed away, a fence is breached and stock is wandering.
-
-[Find out more](http://www.rhok.org/node/84800)  
-  
-### Real Time Info for Bushfire Planning
-
-Being able to go to one website and find real time information about road and weather conditions as well as any bushfire activity in the area allows residents to make informed decisions about whether to stay and defend or leave.    
-
-[Find out more](http://www.rhok.org/problems/real-time-info-bushfire-planning)  
-
-### Engaging youth to get them bushfire prepared
-
-In areas of high bushfire risk there are many households without a bushfire survival plan. If there is a plan it is often made by the the adults for the enitre household. Young people, especially teenagers do not always understand the risk and may not pay close attention to the plan (if there is one).
-
-Many people plan to just leave early. Great. What happens when it is the third day of Code Red fire danger in a row. The pressure is on to go to work but the local high school is closed. What's the plan for the teenagers? What happens when a fire starts in the area and there is no option to leave?
-
-We need to inspire these youth to get involved in bushfire planning - make their own plan that they are comfortable with and that they can realistically enact, share it with their family and have it easily accessible. 
-
-Our young people are typically avid internet and social media users. We need to develop a way of engaging with young people online in the high risk bushfire areas to get them bushfire prepared and potentially save their lives.
-
-[Find out more](http://www.rhok.org/node/95048)  
-
-### Smartgiving - The Social Network for Social Giving
-
-Smart Giving is a platform where individuals, charities and businesses will  interact and support each other. The aim is to develop a web App which will allow people to give anything they like e.g. time, skills or money and get rewarded for social giving. 
-
-[Find out more](http://www.rhok.org/node/106183) 
-
 ### Open Food Network - Making it easy to buy and sell local food
 
 The Open Food Web Foundation has been working on a general sollution of "making it easy to buys and sell local food."  The have a few things to add, and that's where RHoK comes in.
@@ -62,3 +32,13 @@ The Open Food Web Foundation has been working on a general sollution of "making 
 2) Sharing Transport: The problem of moving food around at minimum cost / greenhouse emissions, requires users to be able to work together to plan shared trips e.g. one farmer bringing produce from multiple farmers into the city.
 
 [Find out more](http://www.rhok.org/node/106805)
+
+### Peopoly
+
+Peopoly approaches the issue of supply chain opacity from the ground up. It enables consumers to interact directly with all elements of the supply chain. This circumvents the need for a label, it gives them access to the information they need to make informed purchasing decisions. This shifts the balance of power back into the pocket of the consumer.
+
+### Witness King Tides (Green Cross Australia)
+
+[Witness King Tides](http://www.witnesskingtides.org) is an existing website asks communities around Australia to take photos of the coastline when king tides hit. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, the images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change.
+
+Our aim is to develop an app which allows users to photograph the coast using their smart phone. This will engage Australians around the issue of sea level rise and drive them to make sustainable actions for a positive future.
