@@ -42,3 +42,10 @@ Peopoly approaches the issue of supply chain opacity from the ground up. It enab
 [Witness King Tides](http://www.witnesskingtides.org) is an existing website asks communities around Australia to take photos of the coastline when king tides hit. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, the images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change.
 
 Our aim is to develop an app which allows users to photograph the coast using their smart phone. This will engage Australians around the issue of sea level rise and drive them to make sustainable actions for a positive future.
+
+### With One Seed
+
+[WithOneSeed](http://www.withoneseed.org.au)’s work is about reforestation, training subsistence farmers and building local village economies in Timor Leste.
+
+The problem we would like to solve is to build a mobile app that calculates the carbon emissions from mobile technology.  We have previously developed a pilot that we are wanting to extend the functionality of so that it can become an interactive tools for education of students in Australia and Timor and use this a a way of developing global citizens who take responsibility for their actions.
+
