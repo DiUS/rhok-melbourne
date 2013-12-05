@@ -28,6 +28,7 @@ Our aim is to develop an app which allows users to photograph the coast using th
 
 The problem we would like to solve is to build a mobile app that calculates the carbon emissions from mobile technology.  We have previously developed a pilot that we are wanting to extend the functionality of so that it can become an interactive tools for education of students in Australia and Timor and use this a a way of developing global citizens who take responsibility for their actions.
 
+[Find out more](https://docs.google.com/document/d/1qd3gaQAldfYXUSFJeuDjzASWaZnPpj2lCqRy4lvBi6s/edit?usp=sharing)
 
 ## Ongoing Problems (have been worked on before at a RHoK event)
 
