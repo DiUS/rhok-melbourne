@@ -4,12 +4,32 @@ Read more: Show me more
 
 # Current projects
 
-Here are the problems we will be being worked on at the next RHoK weekend in June.
+Here are the problems we will be being worked on at the next RHoK weekend in December 2013.
 
-### RHoK Melbourne website
-Rebuilding this website!  This is a new website that is currently under construction.  We'd like to dedication some time to creating a really engaging and user-friendly RHoK Melbourne Website so that people can learn about all the great work that the RHoK volunteers are doing.
+## New Problems (first time worked on at a RHoK event)
 
-[Find out more](http://www.rhok.org/node/105986)  
+### Peopoly
+
+Peopoly approaches the issue of supply chain opacity from the ground up. It enables consumers to interact directly with all elements of the supply chain. This circumvents the need for a label, it gives them access to the information they need to make informed purchasing decisions. This shifts the balance of power back into the pocket of the consumer.
+
+[Find out more](https://docs.google.com/document/d/1cwCfaNKi_SmTTgleM2BXkjdS_66svslPHCDqPWBBUek/edit?usp=sharing)
+
+### Witness King Tides (Green Cross Australia)
+
+[Witness King Tides](http://www.witnesskingtides.org) is an existing website asks communities around Australia to take photos of the coastline when king tides hit. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, the images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change.
+
+Our aim is to develop an app which allows users to photograph the coast using their smart phone. This will engage Australians around the issue of sea level rise and drive them to make sustainable actions for a positive future.
+
+[Find out more](https://docs.google.com/document/d/13oJFYg8JN05k6QvChiACS6b6blTLWbntpP85FfGGOW8/edit?usp=sharing)
+
+### With One Seed
+
+[WithOneSeed](http://www.withoneseed.org.au)’s work is about reforestation, training subsistence farmers and building local village economies in Timor Leste.
+
+The problem we would like to solve is to build a mobile app that calculates the carbon emissions from mobile technology.  We have previously developed a pilot that we are wanting to extend the functionality of so that it can become an interactive tools for education of students in Australia and Timor and use this a a way of developing global citizens who take responsibility for their actions.
+
+
+## Ongoing Problems (have been worked on before at a RHoK event)
 
 ### Automated Bushfire Survival Plan Application
 
@@ -32,22 +52,3 @@ The Open Food Web Foundation has been working on a general sollution of "making 
 2) Sharing Transport: The problem of moving food around at minimum cost / greenhouse emissions, requires users to be able to work together to plan shared trips e.g. one farmer bringing produce from multiple farmers into the city.
 
 [Find out more](http://www.rhok.org/node/106805)
-
-### Peopoly
-
-Peopoly approaches the issue of supply chain opacity from the ground up. It enables consumers to interact directly with all elements of the supply chain. This circumvents the need for a label, it gives them access to the information they need to make informed purchasing decisions. This shifts the balance of power back into the pocket of the consumer.
-
-### Witness King Tides (Green Cross Australia)
-
-[Witness King Tides](http://www.witnesskingtides.org) is an existing website asks communities around Australia to take photos of the coastline when king tides hit. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, the images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change.
-
-Our aim is to develop an app which allows users to photograph the coast using their smart phone. This will engage Australians around the issue of sea level rise and drive them to make sustainable actions for a positive future.
-
-[Find out more](https://docs.google.com/document/d/13oJFYg8JN05k6QvChiACS6b6blTLWbntpP85FfGGOW8/edit?usp=sharing)
-
-### With One Seed
-
-[WithOneSeed](http://www.withoneseed.org.au)’s work is about reforestation, training subsistence farmers and building local village economies in Timor Leste.
-
-The problem we would like to solve is to build a mobile app that calculates the carbon emissions from mobile technology.  We have previously developed a pilot that we are wanting to extend the functionality of so that it can become an interactive tools for education of students in Australia and Timor and use this a a way of developing global citizens who take responsibility for their actions.
-
