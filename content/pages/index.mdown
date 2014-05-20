@@ -13,13 +13,13 @@ Melbourne is again taking part in the next global RHoK event in June this year.
 
 # RHoK Global Hackathons
 
-The next global hack weekend will be on May 31 and June 1, 2014. We are currently recruiting new problem owners and hackers, and will have an information session in on Tuesday 13 May, 2014. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
+The next global hack weekend will be on May 31 and June 1, 2014. We are currently recruiting new problem owners and hackers. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
 
 
 RHoK Melbourne was located at Swinburne University Hawthorn, in the AGSE building.
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-37.821506,145.040141&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-37.821506,145.040141&amp;spn=0,0" style="color:#0000FF;text-align:left">AGSE Building, Swinburne University</a> in a larger map</small>
 
-Here's an outline of how the RHOK Melbourne hackathon will run in June. We'll keet most of the time for actual development, and the speechifying and admin to a bare minimum.  The challenges and problems people will be pitching to be worked will be updated on "Problems" page.
+Here's an outline of how the RHoK Melbourne hackathon will run in June. We'll keet most of the time for actual development, and the speechifying and admin to a bare minimum.  The challenges and problems people will be pitching to be worked will be updated on "Problems" page.
 
 ## Saturday 31 May
 
