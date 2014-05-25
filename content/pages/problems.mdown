@@ -16,7 +16,9 @@ An initiative which aims to help consumers switch their lifestyle one campaign a
 
 ### Apidae
 
-A storytelling platform for developing communities around the world.
+[Apidae](http://www.apidae.com.au/) tells the stories of sustainability. We share stories about what is happening at the community level, so organisations like the UN understand and can improve their community projects.
+ 
+We want to create an easy way for people to participate in their own development, and help those funding it understand what the community wants. So, at the RHoK June Hackathon we are looking to build a simple mobile app that allows people in the community to record and share their stories. This might include recording some photos, voiceover, a bit of video or even tagging some issues they think are important. We want these stories to be shared on a platform that people can interact with (e.g. maybe a Facebook platform). We think this app could be the future of community-centred sustainability!
 
 ## Ongoing Problems (have been worked on before at a RHoK event)
 
