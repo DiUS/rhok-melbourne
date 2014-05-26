@@ -8,7 +8,15 @@ Read more: Show me more
 
 ### StartOut
 
-Help a new charity that is aiming to reduce the entirely preventable burden of poor mental health in the gay and lesbian community through early intervention and digital means.
+**DSG means Diverse Sexuality and Gender – it's still an acronym but we think it's way more inclusive than LGBTIQQabcde...**
+
+There is a problem in Australia right now that DSG people are over represented when it comes to mental health issues like depression, anxiety and suicidal ideation –  we want to change this. While there is a lot of support around depression and anxiety in our  community, much of it comes too late.  
+
+**StartOut Australia is a new organisation that is focusing on early interventions** that build the confidence and resilience of DSG people with the aim of reducing the entirely preventable burden of poor mental health. 
+
+* Our pitch to RHoK is going to be about helping us **create something awesome that will put a mentor or a positive role model in the hand of every young DSG person in Australia**, and allow them to interact and communicate with people about issues they might not be able to talk to anyone else in the world about. 
+* We know that 95% of DSG people use the internet as the first place to find answers to their questions so **we want to get clever with synchronous and asynchronous communication via a web/mobile application, develop new matching algorithms based on an ideal mentoring relationship and find new ways to communicate moods and feelings via digital means.**
+* If you are a tech savvy person who thinks that people should just be comfortable to be themselves, we want your help! *Tech platform and language to be decided*
 
 ### Ethical Switch
 
