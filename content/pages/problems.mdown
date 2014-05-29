@@ -28,17 +28,9 @@ The heart of ESwitch is an online campaign website to attract people to sign up 
 As such, the design of the campaign website will aim to be intuitive and magnetic to attract people drawn by the values, philanthropy or the simplicity to switch.
 It will need to be navigated across device platforms and have a sense of being a “live interactive community”, building towards a goal of unlocking the charity deal.
 
-###### Explain like I'm under 5: Live solar generation displays for early-education
+### Explain like I'm under 5: Live solar generation displays for early-education
 
 Brunswick Space Administration (David Perry) and Energy for the People (Alex Houlston and Tosh Szatow) are working together to make energy self-sufficiency more accessible to consumers, community groups and small businesses by providing compelling data, visualization and analysis. We are currently looking to induct a number of pilot sites with rooftop PV, and a common theme is early-educational environments. An important value proposition for these sites is to not just install and monitor PV, but explain it for children and parents alike. Why is it there and how does it work? While we love a good graph, visualizing data for under fives will require a new and wildly imaginative approach. We'd like your help!
-
-###### Liminal Apparel
-
-Liminal Apparel was set up 4 years ago after beginning the journey with Freeset to start producing t-shirts. We spent a few months working over at Freeset and had our hearts broken for the Women and seeing the very tangible difference us choosing to buy fair trade and organic makes. Our business model is quite different as well, we are set up to be sustainable and profitable and all profit goes directly back into Freeset.
-
-One of the reasons we started up is because we want to offer something which is more than just a 'charity style' product, we believe donations and offerings are extremley important, but nothing beats work. We love knowing that every t-shirt and bag sold here is the start of a new life of dignity for the women and their familes of Freeset.
-
-More info soon about the aspects of the Liminal Apparel website that need some help.
 
 ### Apidae
 
