@@ -18,4 +18,4 @@ It should now be running accessible at `http://localhost:8080`
 
 ## To deploy:
 
-Jump on the box and pull . . .
+Compress the whole repo, scp to server, deploy.sh.
