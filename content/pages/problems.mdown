@@ -2,54 +2,59 @@ Categories: problems
 Summary: Problems that are currently being worked on from past RHoK events
 Read more: Show me more
 
-# Current projects
 
-## New and Current Problems
+# Current Projects
 
-### StartOut
 
-**DSG means Diverse Sexuality and Gender – it's still an acronym but we think it's way more inclusive than LGBTIQQabcde...**
+## Continuing Problem Owners
 
-There is a problem in Australia right now that DSG people are over represented when it comes to mental health issues like depression, anxiety and suicidal ideation –  we want to change this. While there is a lot of support around depression and anxiety in our  community, much of it comes too late.  
+### Ethical Switch
 
-**StartOut Australia is a new organisation that is focusing on early interventions** that build the confidence and resilience of DSG people with the aim of reducing the entirely preventable burden of poor mental health. 
+Ethical Switch is a consumer-based organisation which aims to make positive change simply by modifying our spending habits. They understand that living ethically and sustainably can be slightly overwhelming, so they do the research, negotiate the best ethically-sourced deal so that you can make the switch with just a few clicks. They worked with RHoK to develop the idea, branding, and initial proof of concept. The project has since launched, and is now live and online.
 
-* Our pitch to RHoK is going to be about helping us **create something awesome that will put a mentor or a positive role model in the hand of every young DSG person in Australia**, and allow them to interact and communicate with people about issues they might not be able to talk to anyone else in the world about. 
-* We know that 95% of DSG people use the internet as the first place to find answers to their questions so **we want to get clever with synchronous and asynchronous communication via a web/mobile application, develop new matching algorithms based on an ideal mentoring relationship and find new ways to communicate moods and feelings via digital means.**
-* If you are a tech savvy person who thinks that people should just be comfortable to be themselves, we want your help! *Tech platform and language to be decided*
 
-### Ethical Switch (ESwitch)
+### Witness King Tides
 
-ESwitch is an initiative which aims to raise money for charity while helping consumers switch to a values centred lifestyle.
+Witness King Tides is a fun community photography project that helps environmental organisations and climate change campaigners visualise the potential future impacts of sea level rise. When king tides hit, they ask coastal communities around Australia to head out and snap pics of local landmarks during the very high tide. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, these images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change. They worked with RHoK to update their existing website and app, and these are a few weeks away from launch.
 
-Charities are heavily reliant on the generosity of donors and as such, when Aussies are doing it tough, the charities’ most vulnerable beneficiaries are often terribly affected.  ESwitch will enable Aussies donate to the charity of their choice without having extra out of pocket expenses. We achieve this by harnessing people power to pressure companies to provide quality affordable products with a simultaneous donation to a customer’s charity.
-
-The heart of ESwitch is an online campaign website to attract people to sign up for a particular deal around a daily expense (eg. electricity, mobile etc).  When a sufficient threshold of people join the campaign, the charity deal can “go live” and the donations to charities increase as more people that switch to the deal.
-As such, the design of the campaign website will aim to be intuitive and magnetic to attract people drawn by the values, philanthropy or the simplicity to switch.
-It will need to be navigated across device platforms and have a sense of being a “live interactive community”, building towards a goal of unlocking the charity deal.
-
-### Explain like I'm under 5: Live solar generation displays for early-education
-
-Brunswick Space Administration (David Perry) and Energy for the People (Alex Houlston and Tosh Szatow) are working together to make energy self-sufficiency more accessible to consumers, community groups and small businesses by providing compelling data, visualization and analysis. We are currently looking to induct a number of pilot sites with rooftop PV, and a common theme is early-educational environments. An important value proposition for these sites is to not just install and monitor PV, but explain it for children and parents alike. Why is it there and how does it work? While we love a good graph, visualizing data for under fives will require a new and wildly imaginative approach. We'd like your help!
 
 ### Apidae
 
-[Apidae](http://www.apidae.com.au/) tells the stories of sustainability. We share stories about what is happening at the community level, so organisations like the UN understand and can improve their community projects.
- 
-We want to create an easy way for people to participate in their own development, and help those funding it understand what the community wants. So, at the RHoK June Hackathon we are looking to build a simple mobile app that allows people in the community to record and share their stories. This might include recording some photos, voiceover, a bit of video or even tagging some issues they think are important. We want these stories to be shared on a platform that people can interact with (e.g. maybe a Facebook platform). We think this app could be the future of community-centred sustainability!
+Apidae is a small communications social enterprise which designs and implements strategic communications to connect knowledge, ideas and people to create sustainable change. Through beautiful videos, digital reporting, and mobile applications, they provide tools to connect organisations with their stakeholders and help share their sustainability stories. They are currently working with RHoK to develop a storytelling app to allow communities in the Pacific region communicate more effectively with large aid organisations.
 
-## Ongoing Problems (have been worked on before at a RHoK event)
 
-### Universal Emergency Response Management
+## New Problem Owners for December
 
-In any emergency response, such as firefighting, there is a need to manage resources and optimise their utilisation. Responders, vehicles, aircraft all play a part, and it is important for team leaders and managers to know where everything is located and the task it is currently assigned to do. Often, in a fire fighting scenario, teams are spread out over many kilometres, and also be obscured by smoke. Operational managers in the response management headquarters also require a "big picture" view to properly use the resources at their disposal.
+### Thin Green Line
 
-[Find out more](http://www.rhok.org/node/95421)  
+The Thin Green Line Foundation is the world's only charity solely dedicated to protecting endangered species and threatened ecosystems by supporting park rangers. They provide park rangers with essential anti-poaching equipment and training to assist them in patrolling on the front line of conservation. They also provide financial support to the widows and orphans of park rangers killed in the line of duty. Their support is focused on rangers in developing regions, conflict zones, and indigenous rangers in Australia and abroad. They are looking to work with RHoK to develop a geolocation app to help monitor hotspots and trouble areas for rangers.
 
-### Witness King Tides (Green Cross Australia)
 
-[Witness King Tides](http://www.witnesskingtides.org) is an existing website asks communities around Australia to take photos of the coastline when king tides hit. These photos capture what our coastal communities may look like in the future, as global sea levels rise. Together, the images build a picture of the threat posed by sea level rise across Australia and help track the future impact of climate change.
+### Justice Connect
 
-Our aim is to develop an app which allows users to photograph the coast using their smart phone. This will engage Australians around the issue of sea level rise and drive them to make sustainable actions for a positive future.
+Justice Connect is an organisation with a commitment to lawyers' pro bono responsibility. They help deliver access to justice, through pro bono legal services, to people experiencing disadvantage and the community organisations that support them. Justice Connect was formed when PILCH NSW (established in 1992) and PILCH Vic (established in 1994) merged in 2013. They are hoping to work with RHoK to develop an app or website that allows pro bono lawyers to tell their stories more effectively, in order to inspire other lawyers to offer their services to disadvantaged groups.
 
-[Find out more](https://docs.google.com/document/d/13oJFYg8JN05k6QvChiACS6b6blTLWbntpP85FfGGOW8/edit?usp=sharing)
+
+### Good Cycles
+
+Good Cycles is a social enterprise. Their mission is to use bicycles to create meaningful & lasting opportunities for people & communities in need. They run a business that caters to the needs of Melbourne's commuter-cyclists, providing them with super-convenient bicycle services right across Melbourne. The profits from this help to fund important community work as a registered charity, such as training disadvantaged groups of people to become bike mechanics, and training refugees to cycle in the city. They are working with RHoK to develop a 'frequent flyers'-style app to encourage more people to come into their workshops.
+
+
+### Voices4Indi
+
+Voices for Indi is a community group that bridges the gap between community and politics. They aim to create opportunities for conversation for not just your voice to be heard, but for you to hear others. More than just a demonstration of community development driven politics, Voices for Indi is a community leadership exercise which hopes to have a lasting impact. The organisation is a response to the need for re-energized but respectful political debate, and provides a process to connect the community's voice to our elected representatives. They will be working with RHoK to create an app to showcase citizen voices to elected politicians.
+
+
+### Climate Watch
+
+ClimateWatch was developed by Earthwatch with the Bureau of Meteorology and The University of Melbourne to understand how changes in temperature and rainfall are affecting the seasonal behaviour of Australia's plants and animals. The first continental phenology project in the Southern Hemisphere, ClimateWatch enables every Australian to be involved in collecting and recording data that will help shape the country's scientific response to climate change. They have an existing app which needs to be updated to allow better data capture and user experience.
+
+
+### WATDA
+
+Wheelchair Accessible Transport Drivers Association (WATDA) is an association of Somalian taxi drivers who are attempting to connect specialist disabled service taxi drivers with disability organisations. Currently, most taxi drivers work long hours for little pay, and are not using their taxis for the intended purposes. At the same time, disability services have to pay high prices for dedicated vehicle support, and waiting times are often long. WATDA is looking to create a website and possibly an app to allow bookings and client services to overcome this problem.
+
+
+### Life Assist
+
+LifeAssist helps disabled and elderly people in achieving their goals to live the life they choose, living happily and productively in the familiar surroundings of their own homes and communities. They provide appropriate support (whether free, government-funded or self-funded services) to anyone who needs assistance either for themselves or for someone close. They will be working with RHoK to develop a way to get better feedback from their clients in order to provide a better service.

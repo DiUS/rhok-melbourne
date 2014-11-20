@@ -16,12 +16,12 @@ Melbourne is again taking part in the next global RHoK event in June this year.
 The next global hack weekend will be on May 31 and June 1, 2014. We are currently recruiting new problem owners and hackers. Sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> to keep up to date with the latest news and events.
 
 
-RHoK Melbourne was located at Swinburne University Hawthorn, in the AGSE building.
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-37.821506,145.040141&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-37.821506,145.040141&amp;spn=0,0" style="color:#0000FF;text-align:left">AGSE Building, Swinburne University</a> in a larger map</small>
+RHoK Melbourne was located at Swinburne University Hawthorn, in the AMDC building.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1575.7998188316087!2d145.03820679999995!3d-37.822845699999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64232763f1f4d%3A0x5fece3184d5ad0c8!2s427%2F401-451+Burwood+Rd%2C+Hawthorn+VIC+3122!5e0!3m2!1sen!2sau!4v1416451818705" width="600" height="450" frameborder="0" style="border:0"></iframe><br/><small><i>Around here somewhere . . .</i></small><br/><br/>
 
-Here's an outline of how the RHoK Melbourne hackathon will run in June. We'll keet most of the time for actual development, and the speechifying and admin to a bare minimum.  The challenges and problems people will be pitching to be worked will be updated on "Problems" page.
+Here's an outline of how the RHoK Melbourne hackathon will run in June. We'll keep most of the time for actual development, and the speechifying and admin to a bare minimum.  The challenges and problems people will be pitching to be worked will be updated on "Current projects" page.
 
-## Saturday 31 May
+## Saturday 6 December
 
 * 9.00 – 9.30 Get set up, and ready for 2 great days
 * 9.30 – 9.45 Welcome and administrivia
@@ -34,11 +34,11 @@ We'll have light snacks, fruit, drinks and the like on hand to keep your blood s
 
 You can work as late as 11.00pm, or head home a little earlier to catch up on some sleep
 
-## Sunday June 1
+## Sunday 7 December
 
 * 8.00 – 13.00 Coding continues
 * 14.00 Time to down tools
 * 14.30 – 15.30 All projects get 10 minutes to present their work to all (and the judges)
 * 15.30 – 16.00 Judges deliberate
 * 16.00 – 16.30 Awards and prizes
-* 16.30 onwards - come share a drink nearby at the Hotel Hotham to unwind
+* 16.30 onwards - come share a drink nearby at the Hawthorn Hotel to unwind
